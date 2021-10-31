@@ -13,6 +13,6 @@ The team in the next turn will see the clue and reveal the identity of an agent 
 # How to Win the Game?
 If all red agents are revealed,  red team wins. It's same with blue team.
 
-If red team revealed "Assassin", blue team wins and vice versa.
+If red team reveals "Assassin", blue team wins and vice versa.
 
 
